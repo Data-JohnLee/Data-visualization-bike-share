@@ -25,7 +25,8 @@ To run the analysis and view the forecasts:
 
 ├── Seoul_Bike_Sharing_demands.csv    # Dataset file.
 
-├── Seoul_Bike_Sharing_demands.ipynb  # Jupyter notebook with analysis and modeling
+├── Seoul_Bike_Sharing_demands.ipynb  # Jupyter notebook with analysis and modeling.
+
 └── README.md                         # This file.
 
 ## Contact
