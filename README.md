@@ -32,7 +32,9 @@ To run the analysis and view the forecasts:
 
 ## Sample Data Visualization
 
-![
+For a detailed preview of data visualization, here is the sample output as a scatter plot.
+
+![Scatter plot](image/output.png)
 
 ## Contact
 For any further questions or feedback, please feel free to reach out.
