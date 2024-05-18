@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to predict the demand for bike sharing services in Seoul based on various factors such as weather conditions, time of the year, and other relevant variables. The predictions can help in managing the bike fleet more efficiently and improving user satisfaction by ensuring bikes are available when and where they are needed. this project using the dataset form the "UC Irvine Machine Learning Repository."
+This project aims to predict the demand for bike sharing services in Seoul based on various factors such as weather conditions, time of the year, and other relevant variables. The predictions can help in managing the bike fleet more efficiently and improving user satisfaction by ensuring bikes are available when and where they are needed. this project using the dataset from the (https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand) provided by UCI ML repository.
 
 ## Features
 
