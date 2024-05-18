@@ -30,6 +30,10 @@ To run the analysis and view the forecasts:
 
 └── README.md                         # This file.
 
+## Sample Data Visualization
+
+![
+
 ## Contact
 For any further questions or feedback, please feel free to reach out.
 
